@@ -27,11 +27,16 @@ window.Lengthy = {
       , article = readme.getElementsByClassName("markdown-body")[0]
       , name = readme.getElementsByClassName("name")[0]
       , toggle = document.createElement('a')
+      , first_element = article.childNodes[0]
 
     // Table of contents
     toc.id = "lengthy-toc"
     toc.style.display = "none"
     toc.innerHTML = "<p>Contents</p>"
+
+    if (first_element && first_element.nodeType == 1) {
+      first_element.style.marginTop = first_element.style.paddingTop = "0"
+    }
     article.insertBefore(toc, article.childNodes[0])
 
     // Toggle link
