@@ -32,8 +32,6 @@ window.Lengthy = {
     toc.id = "lengthy-toc"
     toc.style.display = "none"
     toc.innerHTML = "<p>Contents</p>"
-    article.childNodes[0].style.marginTop = "0"
-    article.childNodes[0].style.paddingTop = "0"
     article.insertBefore(toc, article.childNodes[0])
 
     // Toggle link
