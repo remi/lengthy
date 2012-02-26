@@ -1,0 +1,16 @@
+# Lengthy
+
+**Lengthy** is a [Google Chrome](https://www.google.com/chrome)/[Chromium](http://www.chromium.org/) extension that adds a table of contents to `README` files on [GitHub](https://github.com/).
+
+## Installation
+
+Currently, the only way to install the extension is to enable Chrome’s developer mode, click on **Load unpacked extension** and select this directory.
+
+This is not a *real* extension yet. It will be soon.
+
+## Screenshot
+
+Here is a screenshot of what the table of contents looks like. The table is hidden by default and can be shown by clicking on the arrow in the top-right corner.
+
+![image](http://i.imgur.com/2luk8.png)
+
