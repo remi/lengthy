@@ -34,7 +34,7 @@ window.Lengthy = {
     toc.style.display = "none"
     toc.innerHTML = "<p>Contents</p>"
 
-    if (first_element && first_element.nodeType == 1) {
+    if (first_element && first_element.nodeType == Node.ELEMENT_NODE) {
       first_element.style.marginTop = first_element.style.paddingTop = "0"
     }
     article.insertBefore(toc, article.childNodes[0])
