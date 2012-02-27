@@ -23,7 +23,9 @@ window.Lengthy = {
   init: function() { // {{{
 
     var readme = document.getElementById("readme")
-      , toc = document.createElement("div")
+    if (!readme) { return true; }
+
+    var toc = document.createElement("div")
       , article = readme.getElementsByClassName("markdown-body")[0]
       , name = readme.getElementsByClassName("name")[0]
       , toggle = document.createElement('a')
