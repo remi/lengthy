@@ -9,6 +9,7 @@
       "48": "icon.png",
       "128": "icon.png"
    },
+   "homepage_url":"https://github.com/remiprev/lengthy",
    "description": "Lengthy adds a table of contents to README files on GitHub.",
    "name": "Lengthy",
    "update_url": "http://clients2.google.com/service/update2/crx",
