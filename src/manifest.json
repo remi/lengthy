@@ -5,7 +5,9 @@
       "run_at": "document_idle"
    } ],
    "icons": {
-      "48": "icon.png"
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
    },
    "description": "Lengthy adds a table of contents to README files on GitHub.",
    "name": "Lengthy",
