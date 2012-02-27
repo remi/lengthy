@@ -4,8 +4,11 @@
       "matches": [ "https://github.com/*" ],
       "run_at": "document_idle"
    } ],
+   "icons": {
+      "48": "icon.png"
+   },
    "description": "Lengthy adds a table of contents to README files on GitHub.",
    "name": "Lengthy",
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1"
+   "version": "1.0"
 }

@@ -4,9 +4,10 @@
 
 ## Installation
 
-Currently, the only way to install the extension is to enable Chrome’s developer mode, click on **Load unpacked extension** and select this directory.
+To install this extension, you can either:
 
-This is not a *real* extension yet. It will be soon.
+* Open the `ext/lengthy.crx` file with Google Chrome/Chromium
+* Enable Chrome’s developer mode, click on **Load unpacked extension** and select the `src` directory
 
 ## Screenshot
 
