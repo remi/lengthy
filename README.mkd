@@ -11,7 +11,7 @@ To install this extension, you can either:
 
 ## Screenshot
 
-Here is a screenshot of what the table of contents looks like. The table is hidden by default and can be shown by clicking on the arrow in the top-right corner.
+Here is a before/after screenshot of what the table of contents looks like. The table is hidden by default and can be shown by clicking on the arrow in the top-right corner.
 
-![image](http://i.imgur.com/2luk8.png)
+![image](http://i.imgur.com/kcRcm.png)
 
