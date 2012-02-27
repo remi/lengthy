@@ -25,9 +25,11 @@ window.Lengthy = {
     var readme = document.getElementById("readme")
     if (!readme) { return true; }
 
+    var name = readme.getElementsByClassName("name")[0]
+    if (!name) { return true; }
+
     var toc = document.createElement("div")
       , article = readme.getElementsByClassName("markdown-body")[0]
-      , name = readme.getElementsByClassName("name")[0]
       , toggle = document.createElement('a')
       , firstElement = article.childNodes[0]
 
