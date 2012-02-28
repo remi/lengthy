@@ -5,9 +5,11 @@
       "run_at": "document_idle"
    } ],
    "icons": {
-      "16": "icon.png",
-      "48": "icon.png",
-      "128": "icon.png"
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png",
+      "64": "icon64.png",
+      "128": "icon64.png"
    },
    "homepage_url":"https://github.com/remiprev/lengthy",
    "description": "Lengthy adds a table of contents to README files on GitHub.",
