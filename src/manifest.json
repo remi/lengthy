@@ -9,7 +9,8 @@
       "16": "icon16.png",
       "32": "icon32.png",
       "64": "icon64.png",
-      "128": "icon64.png"
+      "128": "icon128.png",
+      "256": "icon256.png"
    },
    "homepage_url":"https://github.com/remiprev/lengthy",
    "description": "Lengthy adds a table of contents to README files on GitHub.",
