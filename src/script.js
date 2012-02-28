@@ -1,4 +1,4 @@
-// Lengthy v1.0.1.1.1.1
+// Lengthy v1.0.2
 // Copyright (c) 2012 Rémi Prévost <http://exomel.com>
 // Freely distributable under the terms of the MIT license.
 // <http://github.com/remiprev/lengthy>
