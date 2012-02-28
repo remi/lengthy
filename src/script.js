@@ -8,12 +8,6 @@
 // Freely distributable under the terms of the MIT license.
 // <http://github.com/rafBM/heading-anchors>
 
-document.styleSheets[0].insertRule('.lengthy-toc-toggle { position: absolute; top: 10px; right: 10px; color: #555; text-decoration: none !important; }', 1)
-document.styleSheets[0].insertRule('#lengthy-toc { display: none; background: #fafafa; border: 1px solid #ccc; padding: 15px; font-size: 90%; margin: 0 0 20px; }', 1)
-document.styleSheets[0].insertRule('#lengthy-toc li { list-style: circle; margin: 0; }', 1)
-document.styleSheets[0].insertRule('#lengthy-toc p { border-bottom: 1px solid #ddd; margin: 0 0 10px; padding: 0 0 10px; font-weight: bold; }', 1)
-document.styleSheets[0].insertRule('.markdown-body .heading-anchor { color: rgba(0,0,0,0.2); font-size: 60%; }', 1)
-
 window.Lengthy = {
 
   $: function(selector) { // {{{

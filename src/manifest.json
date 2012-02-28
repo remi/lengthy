@@ -1,6 +1,7 @@
 {
    "content_scripts": [ {
       "js": [ "script.js" ],
+      "css": [ "style.css" ],
       "matches": [ "https://github.com/*" ],
       "run_at": "document_idle"
    } ],
