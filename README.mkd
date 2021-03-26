@@ -1,3 +1,5 @@
+⚠️ **GitHub now automatically [creates a table of contents](https://twitter.com/natfriedman/status/1375430850620256257?s=21) in README.md files!** This repository is now archived — it was actually not longer maintained for 9 years 😉.
+
 # Lengthy
 
 **Lengthy** is a [Google Chrome](https://www.google.com/chrome)/[Chromium](http://www.chromium.org/) extension that adds a table of contents to `README` files on [GitHub](https://github.com/).
